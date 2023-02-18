@@ -1,0 +1,30 @@
+.nav-container{
+    height: 30px;
+    width: 30%;
+    padding: 40px 40px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+    border-bottom: 1px solid #e5e4e4;
+    background-color: #ffffff;
+    margin: auto;
+    float: right;
+.nav{
+    height: 70px;
+    width: 100%;
+    padding: 0px 40px;
+    display: flex;
+    margin: auto;
+    
+   
+    .nav-link {
+        padding: 10px 15px;
+        cursor: pointer;
+      }
+   
+}
+
+}
+.page-content {
+    padding: 20px 40px;
+   }
